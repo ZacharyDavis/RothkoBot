@@ -12,7 +12,7 @@ If you would like to use this bot for your own Twitter acount, follow these step
 4. Install Pillow with `pip install Pillow`
 4. Create a Twitter application here https://apps.twitter.com
 5. Include your own API and Access keys in the .py file (found on the site above)
-6.  run `python RothkoBot.py`
+6. Run `python RothkoBot.py`
 
 The source code is very customizable and has many capabilites using the PIL library.
 
