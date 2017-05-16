@@ -20,19 +20,19 @@ color.close()
 
 while True:
 	fourcolors = False
-	color1 = colors[random.randint(0,len(colors)-1)].split(",") # Select background color
-	color2 = colors[random.randint(0,len(colors)-1)].split(",") # Select first rectangle color
-	color3 = colors[random.randint(0,len(colors)-1)].split(",") # Select second rectangle color
-	color4 = colors[random.randint(0,len(colors)-1)].split(",") # Secelect third rectangle color
+	color1 = colors[random.randint(0,len(colors)-1)].split(",") # Select background color and name
+	color2 = colors[random.randint(0,len(colors)-1)].split(",") # Select first rectangle color and name
+	color3 = colors[random.randint(0,len(colors)-1)].split(",") # Select second rectangle color and name
+	color4 = colors[random.randint(0,len(colors)-1)].split(",") # Secelect third rectangle color and name
 
-	colorstr1 = struct.unpack("BBB",color1[1][1:].decode("hex")) + (1,) # Decode hex color values to (R,G,B) format 
-	colorstr2 = struct.unpack("BBB",color2[1][1:].decode("hex")) + (1,)
-	colorstr3 = struct.unpack("BBB",color3[1][1:].decode("hex")) + (1,)
-	colorstr4 = struct.unpack("BBB",color4[1][1:].decode("hex")) + (1,)
+	colorstr1 = struct.unpack("BBB",color1[1][1:].decode("hex")) # Decode hex color values to (R,G,B) format 
+	colorstr2 = struct.unpack("BBB",color2[1][1:].decode("hex"))
+	colorstr3 = struct.unpack("BBB",color3[1][1:].decode("hex"))
+	colorstr4 = struct.unpack("BBB",color4[1][1:].decode("hex"))
 
 	WIDTH,HEIGHT = 418,518
 
-	length1 = random.randint(10,478)  # Determine lengths of each rectangle
+	length1 = random.randint(10,278)  # Determine lengths of each rectangle
 	length2 = random.randint(0,(478-length1))
 	length3 = 463-(length2+length1)
 
@@ -54,5 +54,5 @@ while True:
 		tweet = color2[0].title() + " and " + color3[0].title() + " on " + color1[0].title()
 	
 	api.update_with_media(RothkoPng, tweet) # Send tweet
-	time.sleep(7200) # Wait two hours before tweeting again
+	time.sleep(10800) # Wait three hours before tweeting again
 
