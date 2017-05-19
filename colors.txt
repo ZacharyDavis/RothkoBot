@@ -761,7 +761,6 @@ green blue,#06b48b
 dark tan,#af884a
 greenish blue,#0b8b87
 pale orange,#ffa756
-vomit,#a2a415
 forrest green,#154406
 dark lavender,#856798
 dark violet,#34013f
