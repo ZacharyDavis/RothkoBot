@@ -4,7 +4,7 @@ dust,#b2996e
 electric lime,#a8ff04
 fresh green,#69d84f
 light eggplant,#894585
-nasty green,#70b23f
+green tea,#70b23f
 really light blue,#d4ffff
 tea,#65ab7c
 warm purple,#952e8f
@@ -21,7 +21,6 @@ toxic green,#61de2a
 windows blue,#3778bf
 blue blue,#2242c7
 blue with a hint of purple,#533cc6
-booger,#9bb53c
 bright sea green,#05ffa6
 dark green blue,#1f6357
 deep turquoise,#017374
@@ -51,7 +50,6 @@ egg shell,#fffcc4
 eggplant purple,#430541
 powder pink,#ffb2d0
 reddish grey,#997570
-baby shit brown,#ad900d
 liliac,#c48efd
 stormy blue,#507b9c
 ugly brown,#7d7103
@@ -65,7 +63,6 @@ battleship grey,#6b7c85
 browny green,#6f6c0a
 bruise,#7e4071
 kelley green,#009337
-sickly yellow,#d0e429
 sunny yellow,#fff917
 azul,#1d5dec
 darkgreen,#054907
@@ -82,7 +79,6 @@ dark cream,#fff39a
 indian red,#850e04
 light lavendar,#efc0fe
 poison green,#40fd14
-baby puke green,#b6c406
 bright yellow green,#9dff00
 charcoal grey,#3c4142
 squash,#f2ab15
@@ -145,7 +141,6 @@ vivid purple,#9900fa
 dark royal blue,#02066f
 hazel,#8e7618
 muted pink,#d1768f
-booger green,#96b403
 canary,#fdff63
 cool grey,#95a3a6
 dark taupe,#7f684e
@@ -181,7 +176,6 @@ flat green,#699d4c
 light green blue,#56fca2
 warm pink,#fb5581
 dodger blue,#3e82fc
-gross green,#a0bf16
 ice,#d6fffa
 metallic blue,#4f738e
 pale salmon,#ffb19a
@@ -200,7 +194,6 @@ light greenish blue,#63f7b4
 mud green,#606602
 pinky,#fc86aa
 red wine,#8c0034
-shit green,#758000
 tan brown,#ab7e4c
 darkblue,#030764
 rosa,#fe86a4
@@ -209,7 +202,6 @@ pale mauve,#fed0fc
 claret,#680018
 dandelion,#fedf08
 orangered,#fe420f
-poop green,#6f7c00
 ruby,#ca0147
 dark,#1b2431
 greenish turquoise,#00fbb0
@@ -247,7 +239,6 @@ dried blood,#4b0101
 lightish purple,#a552e6
 rusty red,#af2f0d
 lavender blue,#8b88f8
-light grass green,#9af764
 light mint green,#a6fbb2
 sunflower,#ffc512
 velvet,#750851
@@ -274,7 +265,6 @@ water blue,#0e87cc
 brown grey,#8d8468
 vibrant purple,#ad03de
 baby green,#8cff9e
-barf green,#94ac02
 eggshell blue,#c4fff7
 sandy yellow,#fdee73
 cool green,#33b864
@@ -283,10 +273,8 @@ blue/grey,#758da3
 hot magenta,#f504c9
 greyblue,#77a1b5
 purpley,#8756e4
-baby shit green,#889717
 brownish pink,#c27e79
 dark aquamarine,#017371
-diarrhea,#9f8303
 light mustard,#f7d560
 pale sky blue,#bdf6fe
 turtle green,#75b84f
@@ -299,7 +287,6 @@ seaweed green,#35ad6b
 sunshine yellow,#fffd37
 ugly purple,#a442a0
 medium pink,#f36196
-puke brown,#947706
 very light pink,#fff4f2
 viridian,#1e9167
 bile,#b5c306
@@ -339,7 +326,6 @@ merlot,#730039
 night blue,#040348
 purpleish pink,#df4ec8
 apple,#6ecb3c
-baby poop green,#8f9805
 green apple,#5edc1f
 heliotrope,#d94ff5
 yellow/green,#c8fd3d
@@ -445,10 +431,8 @@ blood,#770001
 brown red,#922b05
 medium grey,#7d7f7c
 berry,#990f4b
-poo,#8f7303
 purpley pink,#c83cb9
 light salmon,#fea993
-snot,#acbb0d
 easter purple,#c071fe
 light yellow green,#ccfd7f
 dark navy blue,#00022e
@@ -457,7 +441,6 @@ light rose,#ffc5cb
 rouge,#ab1239
 purplish red,#b0054b
 slime green,#99cc04
-baby poop,#937c00
 irish green,#019529
 pink/purple,#ef1de7
 dark navy,#000435
@@ -507,7 +490,6 @@ very light purple,#f6cefc
 light navy,#155084
 pink red,#f5054f
 olive brown,#645403
-poop brown,#7a5901
 mustard green,#a8b504
 ocean green,#3d9973
 very dark blue,#000133
@@ -561,7 +543,6 @@ silver,#c5c9c7
 purply blue,#661aee
 purpleish blue,#6140ef
 hospital green,#9be5aa
-shit brown,#7b5804
 mid blue,#276ab3
 amber,#feb308
 easter green,#8cfd7e
@@ -595,7 +576,6 @@ barbie pink,#fe46a5
 bubblegum pink,#fe83cc
 pea soup green,#94a617
 dark mustard,#a88905
-shit,#7f5f00
 medium purple,#9e43a2
 very dark green,#062e03
 dirt,#8a6e45
@@ -618,7 +598,6 @@ dark forest green,#002d04
 faded blue,#658cbb
 drab green,#749551
 light lime green,#b9ff66
-snot green,#9dc100
 yellowish,#faee66
 light blue green,#7efbb3
 bordeaux,#7b002c
@@ -662,7 +641,6 @@ forest,#0b5509
 barney purple,#a00498
 ultramarine,#2000b1
 purplish,#94568c
-puke yellow,#c2be0e
 bluish grey,#748b97
 dark periwinkle,#665fd1
 dark lilac,#9c6da5
@@ -681,7 +659,6 @@ golden yellow,#fec615
 bright yellow,#fffd01
 light lavender,#dfc5fe
 umber,#b26400
-poop,#7f5e00
 dark peach,#de7e5d
 jungle green,#048243
 eggshell,#ffffd4
@@ -837,7 +814,6 @@ eggplant,#380835
 light yellow,#fffe7a
 leaf green,#5ca904
 light grey,#d8dcd6
-puke,#a5a502
 pinkish purple,#d648d7
 sea blue,#047495
 pale purple,#b790d4
@@ -875,7 +851,6 @@ deep purple,#36013f
 dark brown,#341c02
 taupe,#b9a281
 pea green,#8eab12
-puke green,#9aae07
 kelly green,#02ab2e
 seafoam green,#7af9ab
 blue green,#137e6d
