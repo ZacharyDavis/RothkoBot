@@ -482,7 +482,7 @@ dark lime,#84b701
 copper,#b66325
 medium brown,#7f5112
 muted green,#5fa052
-robin's egg,#6dedfd
+robin egg,#6dedfd
 bright aqua,#0bf9ea
 bright lavender,#c760ff
 ivory,#ffffcb
@@ -806,7 +806,7 @@ brick,#a03623
 sage,#87ae73
 grey green,#789b73
 white,#ffffff
-robin's egg blue,#98eff9
+robin egg blue,#98eff9
 moss green,#658b38
 steel blue,#5a7d9a
 eggplant,#380835
