@@ -54,5 +54,5 @@ while True:
 		tweet = color2[0].title() + " and " + color3[0].title() + " on " + color1[0].title()
 	
 	api.update_with_media(RothkoPng, tweet) # Send tweet
-	time.sleep(7200) # Wait 2  hours before tweeting again
+	time.sleep(5400) # Wait 2  hours before tweeting again
 
