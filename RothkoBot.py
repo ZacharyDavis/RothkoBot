@@ -52,5 +52,4 @@ while True:
     
     
     api.update_with_media(RothkoPng, tweet) # Send tweet
-    time.sleep(5400) # Wait 2  hours before tweeting again
-
+    time.sleep(3600) # Wait 2  hours before tweeting again
