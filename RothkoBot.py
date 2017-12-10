@@ -42,14 +42,13 @@ while True:
     if length3 > 0:
         draw.rectangle([20, length1+length2+40, WIDTH-20, length1+length2+length3+40], fill=colorstr4, outline=colorstr4)
         fourcolors = True
-    
+ 
     RothkoPng = "Rothko.png"
     RothkoImage.save(RothkoPng)
     if fourcolors:
         tweet = color2[0].title() + ", " + color3[0].title() + ", and " + color4[0].title() + " on " + color1[0].title()
     else:
         tweet = color2[0].title() + " and " + color3[0].title() + " on " + color1[0].title()    
-    
-    
+
     api.update_with_media(RothkoPng, tweet) # Send tweet
-    time.sleep(3600) # Wait 2  hours before tweeting again
+    time.sleep(3600) # Wait 1  hours before tweeting again

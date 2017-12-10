@@ -206,7 +206,6 @@ ruby,#ca0147
 dark,#1b2431
 greenish turquoise,#00fbb0
 pastel red,#db5856
-piss yellow,#ddd618
 bright cyan,#41fdfe
 dark coral,#cf524e
 algae green,#21c36f
@@ -298,7 +297,6 @@ spearmint,#1ef876
 light aquamarine,#7bfdc7
 light sage,#bcecac
 yellowgreen,#bbf90f
-baby poo,#ab9004
 dark seafoam,#1fb57a
 deep teal,#00555a
 heather,#a484ac
@@ -473,7 +471,6 @@ auburn,#9a3001
 bright lime green,#65fe08
 celadon,#befdb7
 pinkish brown,#b17261
-poo brown,#885f01
 bright sky blue,#02ccfe
 celery,#c1fd95
 dirt brown,#836539
