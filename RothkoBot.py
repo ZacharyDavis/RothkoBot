@@ -17,6 +17,12 @@ color = open("colors.txt", "r")
 colors = color.read().splitlines()
 color.close()
 
+# Open .txt file to retrieve current number of tweets in case of program termination.
+TweetCount = open("TweetCount.txt", "r")
+TweetNumber = TweetCount.read()
+TweetNumber = int(TweetNumber)
+TweetCount.close()
+
 while True:
     fourcolors = False
     color1 = colors[random.randint(0,len(colors)-1)].split(",") # Select background color and name
@@ -45,10 +51,18 @@ while True:
  
     RothkoPng = "Rothko.png"
     RothkoImage.save(RothkoPng)
+
     if fourcolors:
-        tweet = color2[0].title() + ", " + color3[0].title() + ", and " + color4[0].title() + " on " + color1[0].title()
+        tweet = "No. " + str(TweetNumber) + " (" + color2[0].title() + ", " + color3[0].title() + ", and " + color4[0].title() + " on " + color1[0].title() + ")"
+        TweetNumber = TweetNumber + 1
     else:
-        tweet = color2[0].title() + " and " + color3[0].title() + " on " + color1[0].title()    
+        tweet = "No. " + str(TweetNumber) + " (" + color2[0].title() + " and " + color3[0].title() + " on " + color1[0].title() + ")"   
+        TweetNumber = TweetNumber + 1
+
+    # Write current tweet count to file in case of termination
+    TweetCount = open("TweetCount.txt", "w")
+    TweetCount.write(str(TweetNumber))
+    TweetCount.close()
 
     api.update_with_media(RothkoPng, tweet) # Send tweet
-    time.sleep(3600) # Wait 1  hours before tweeting again
+    time.sleep(3600) # Wait 1  hour before tweeting again
