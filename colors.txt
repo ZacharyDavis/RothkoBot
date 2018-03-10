@@ -52,7 +52,6 @@ powder pink,#ffb2d0
 reddish grey,#997570
 liliac,#c48efd
 stormy blue,#507b9c
-ugly brown,#7d7103
 custard,#fffd78
 darkish pink,#da467d
 deep brown,#410200
@@ -60,7 +59,6 @@ greenish beige,#c9d179
 manilla,#fffa86
 off blue,#5684ae
 battleship grey,#6b7c85
-browny green,#6f6c0a
 bruise,#7e4071
 kelley green,#009337
 sunny yellow,#fff917
@@ -92,7 +90,6 @@ light royal blue,#3a2efe
 orangeish,#fd8d49
 rust brown,#8b3103
 sand brown,#cba560
-swamp,#698339
 tealish green,#0cdc73
 burnt siena,#b75203
 camo,#7f8f4e
@@ -108,14 +105,12 @@ light neon green,#4efd54
 light seafoam,#a0febf
 tiffany blue,#7bf2da
 washed out green,#bcf5a6
-browny orange,#ca6b02
 nice blue,#107ab0
 sapphire,#2138ab
 greyish teal,#719f91
 orangey yellow,#fdb915
 parchment,#fefcaf
 straw,#fcf679
-very dark brown,#1d0200
 terracota,#cb6843
 ugly blue,#31668a
 clear blue,#247afd
@@ -160,7 +155,6 @@ warm blue,#4b57db
 dark hot pink,#d90166
 deep sea blue,#015482
 carmine,#9d0216
-dark yellow green,#728f02
 pale peach,#ffe5ad
 plum purple,#4e0550
 golden rod,#f9bc08
@@ -210,7 +204,6 @@ bright cyan,#41fdfe
 dark coral,#cf524e
 algae green,#21c36f
 darkish red,#a90308
-reddy brown,#6e1005
 blush pink,#fe828c
 camouflage green,#4b6113
 lawn green,#4da409
@@ -220,7 +213,6 @@ dark sand,#a88f59
 purple/blue,#5d21d0
 saffron,#feb209
 twilight,#4e518b
-warm brown,#964e02
 bluegrey,#85a3b2
 bubble gum pink,#ff69af
 duck egg blue,#c3fbf4
@@ -246,7 +238,6 @@ lightish red,#fe2f4a
 pure blue,#0203e2
 twilight blue,#0a437a
 violet red,#a50055
-yellowy brown,#ae8b0c
 carnation,#fd798f
 muddy yellow,#bfac05
 dark seafoam green,#3eaf76
@@ -255,13 +246,11 @@ dusty red,#b9484e
 grey/blue,#647d8e
 lemon lime,#bffe28
 purple/pink,#d725de
-brown yellow,#b29705
 purple brown,#673a3f
 wisteria,#a87dc2
 banana yellow,#fafe4b
 lipstick red,#c0022f
 water blue,#0e87cc
-brown grey,#8d8468
 vibrant purple,#ad03de
 baby green,#8cff9e
 eggshell blue,#c4fff7
@@ -272,14 +261,12 @@ blue/grey,#758da3
 hot magenta,#f504c9
 greyblue,#77a1b5
 purpley,#8756e4
-brownish pink,#c27e79
 dark aquamarine,#017371
 light mustard,#f7d560
 pale sky blue,#bdf6fe
 turtle green,#75b84f
 bright olive,#9cbb04
 dark grey blue,#29465b
-greeny brown,#696006
 lemon green,#adf802
 light periwinkle,#c1c6fc
 seaweed green,#35ad6b
@@ -314,8 +301,6 @@ lime yellow,#d0fe1d
 mango,#ffa62b
 shamrock,#01b44c
 bubblegum,#ff6cb5
-purplish brown,#6b4247
-vomit yellow,#c7c10c
 pale cyan,#b7fffa
 key lime,#aeff6e
 tomato red,#ec2d01
@@ -332,7 +317,6 @@ cool blue,#4984b8
 leafy green,#51b73b
 mustard brown,#ac7e04
 dusk,#4e5481
-dull brown,#876e4b
 frog green,#58bc08
 vivid green,#2fef10
 bright light green,#2dfe54
@@ -452,7 +436,6 @@ orangey red,#fa4224
 primary blue,#0804f9
 kermit green,#5cb200
 brownish purple,#76424e
-murky green,#6c7a0e
 wheat,#fbdd7e
 very dark purple,#2a0134
 bottle green,#044a05
@@ -587,8 +570,6 @@ teal blue,#01889f
 lightish blue,#3d7afd
 purpley blue,#5f34e7
 light indigo,#6d5acf
-swamp green,#748500
-brown green,#706c11
 dark maroon,#3c0008
 hot purple,#cb00f5
 dark forest green,#002d04
@@ -606,7 +587,6 @@ dull orange,#d8863b
 steel,#738595
 electric purple,#aa23ff
 fluorescent green,#08ff08
-yellowish brown,#9b7a01
 blush,#f29e8e
 soft green,#6fc276
 bright orange,#ff5b00
@@ -631,8 +611,6 @@ light sky blue,#c6fcff
 blurple,#5539cc
 green brown,#544e03
 bluegreen,#017a79
-bright teal,#01f9c6
-brownish yellow,#c9b003
 pea soup,#929901
 forest,#0b5509
 barney purple,#a00498
@@ -655,7 +633,6 @@ dusty blue,#5a86ad
 golden yellow,#fec615
 bright yellow,#fffd01
 light lavender,#dfc5fe
-umber,#b26400
 dark peach,#de7e5d
 jungle green,#048243
 eggshell,#ffffd4
@@ -681,7 +658,6 @@ aubergine,#3d0734
 mahogany,#4a0100
 reddish orange,#f8481c
 deep green,#02590f
-vomit green,#89a203
 purple pink,#e03fd8
 dusty pink,#d58a94
 faded green,#7bb274
@@ -695,7 +671,6 @@ brownish,#9c6d57
 emerald green,#028f1e
 pale brown,#b1916e
 dull blue,#49759c
-burnt umber,#a0450e
 medium green,#39ad48
 clay,#b66a50
 light aqua,#8cffdb
@@ -731,7 +706,6 @@ salmon pink,#fe7b7c
 tangerine,#ff9408
 brownish green,#6a6e09
 red brown,#8b2e16
-greenish brown,#696112
 pumpkin,#e17701
 pine green,#0a481e
 charcoal,#343837
@@ -877,7 +851,6 @@ lime,#aaff32
 sea green,#53fca1
 periwinkle,#8e82fe
 dark pink,#cb416b
-olive green,#677a04
 peach,#ffb07c
 pale green,#c7fdb5
 light brown,#ad8150
