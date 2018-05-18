@@ -18,6 +18,9 @@ If you would like to use this bot for your own Twitter acount, follow these step
 
 The source code is very customizable and has many capabilites using the PIL library.
 
+## Examples of Rothko_Bot's Creations
+![alt text](https://github.com/ZacharyDavis/RothkoBot/blob/master/Images/Rothko2810.png)
+
 ## Problems Solved (or Circumvented)
 - Implemented a running count of how many images have been tweeted out by Rothko_Bot. This was done using an external text file to keep track between between program termination and recompile. Not the most elegant solution I'm sure, but it works...
 
