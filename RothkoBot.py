@@ -4,6 +4,11 @@
 import tweepy, time, sys, os, math, random, struct, string
 from PIL import Image, ImageDraw
 
+# Implementing 'touch' command functionality to create a location for the PNG to be stored
+def touch(fname, times=None):
+    with open(fname, 'a'):
+        os.utime(fname, times)
+
 # Enter the corresponding information from your Twitter application:
 CONSUMER_KEY = os.environ['ROTHKO_API_KEY']        # Replace this with your consumer key or set an environmental variable
 CONSUMER_SECRET = os.environ['ROTHKO_API_SECRET']  # Replace this with your consumer secret key or set an environmental variable
@@ -48,9 +53,12 @@ while True:
     if length3 > 0:
         draw.rectangle([20, length1+length2+40, WIDTH-20, length1+length2+length3+40], fill=colorstr4, outline=colorstr4)
         fourcolors = True
- 
-    RothkoPng = "Rothko.png"
-    RothkoImage.save(RothkoPng)
+
+    # Save properly-named image to PNG file in the proper directory
+    RothkoPng = "Rothko"+str(TweetNumber)+".png"
+    RothkoPath = os.getcwd()+"/Images/"+RothkoPng 
+    touch(RothkoPath)
+    RothkoImage.save(RothkoPath)
 
     if fourcolors:
         tweet = "No. " + str(TweetNumber) + " (" + color2[0].title() + ", " + color3[0].title() + ", and " + color4[0].title() + " on " + color1[0].title() + ")"
@@ -64,5 +72,5 @@ while True:
     TweetCount.write(str(TweetNumber))
     TweetCount.close()
 
-    api.update_with_media(RothkoPng, tweet) # Send tweet
+    api.update_with_media(RothkoPath, tweet) # Send tweet
     time.sleep(7200) # Wait 1  hour before tweeting again
