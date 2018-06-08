@@ -22,6 +22,7 @@ The source code is very customizable and has many capabilites using the PIL libr
 ![alt text](https://github.com/ZacharyDavis/RothkoBot/blob/master/Images/Rothko2989.png)
 ![alt text](https://github.com/ZacharyDavis/RothkoBot/blob/master/Images/Rothko2988.png)
 ![alt text](https://github.com/ZacharyDavis/RothkoBot/blob/master/Images/Rothko2974.png)
+![alt text](https://github.com/ZacharyDavis/RothkoBot/blob/master/Images/Rothko2972.png)
 
 ## Problems Solved (or Circumvented)
 - Implemented a running count of how many images have been tweeted out by Rothko_Bot. This was done using an external text file to keep track between between program termination and recompile. Not the most elegant solution I'm sure, but it works...
