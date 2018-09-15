@@ -1,3 +1,10 @@
+red-orange,#f9060a
+candy blue,#00c8ff
+smoky blue,#4294bd
+sweater blue,#377bc8
+soft green,#0bf47c
+haze,#678c98
+quarry blue,#1f7fe0
 cloudy blue,#acc2d9
 dark pastel green,#56ae57
 dust,#b2996e
@@ -185,7 +192,6 @@ vivid blue,#152eff
 deep lavender,#8d5eb7
 dull teal,#5f9e8f
 light greenish blue,#63f7b4
-mud green,#606602
 pinky,#fc86aa
 red wine,#8c0034
 tan brown,#ab7e4c
@@ -528,7 +534,6 @@ amber,#feb308
 easter green,#8cfd7e
 soft blue,#6488ea
 cerulean blue,#056eee
-golden brown,#b27a01
 bright turquoise,#0ffef9
 red pink,#fa2a55
 red purple,#820747

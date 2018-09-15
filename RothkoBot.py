@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import tweepy, time, sys, os, math, random, struct, string
-from PIL import Image, ImageDraw
+from PIL import Image, ImageDraw, ImageFilter
 
 # Implementing 'touch' command functionality to create a location for the PNG to be stored
 def touch(fname, times=None):
