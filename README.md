@@ -6,7 +6,7 @@ Be sure to follow Rothko_Bot on Twitter! https://twitter.com/Rothko_Bot
 The conversion methods from hex to RGB and the file containing the color selections are from here: https://github.com/joemfox/colorschemer
 
 ## Usage
-If you would like to use this bot for your own Twitter acount, follow these steps:
+If you would like to use this bot for your own Twitter account, follow these steps:
 
 1. Install python via your favorite package manager
 2. Install pip with `sudo easy_install pip`
