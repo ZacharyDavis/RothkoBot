@@ -1,7 +1,7 @@
 # Rothko_Bot
 
 This bot creates images using the Python Imaging Library. These images are visually similar to the works of abstract artist Mark Rothko (1903-1970). 
-Be sure to follow Rothko_Bot on Twitter! https://twitter.com/Rothko_Bot
+Follow Rothko_Bot on Twitter! https://twitter.com/Rothko_Bot
 
 The conversion methods from hex to RGB and the file containing the color selections are from here: https://github.com/joemfox/colorschemer
 
